@@ -8,6 +8,7 @@
 body {
   font-family: "Rubik", sans-serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 :root {
   --primary-clr: #0b132a;
