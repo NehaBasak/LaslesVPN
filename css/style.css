@@ -90,6 +90,7 @@ nav > ul > li > a {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-top: 20px;
   margin-bottom: 100px;
 }
 .banner-content {
@@ -611,7 +612,7 @@ ul > li > b {
 
   /* Banner Section */
   .banner-section > div > div {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
   }
 
