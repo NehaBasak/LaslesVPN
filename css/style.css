@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 /* Common Class */
-body {
+body,html {
   font-family: "Rubik", sans-serif;
   scroll-behavior: smooth;
   overflow-x: hidden;
